@@ -61,7 +61,8 @@ Por ultimo accedemos a nuestro navegador con la siguiente URL
 
 Aqui nos debera de cargar la siguiente pagina, con la cual podemos empezar a hacer las diferentes busquedas. 
 
-![image](https://github.com/julianCS21/taller02AREP/assets/96396177/6bcb8006-784b-4085-9b67-12c1c0deb746)
+![image](https://github.com/franciscoMarquezBocanegra/MICROFRAMEWORKS-WEB-AREP/assets/98216991/95980164-ab29-4011-b882-6fbbca3994fb)
+
 
 # Documentos HTML
 
