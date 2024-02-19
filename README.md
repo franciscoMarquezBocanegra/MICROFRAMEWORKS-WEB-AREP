@@ -66,7 +66,8 @@ Aqui nos debera de cargar la siguiente pagina, con la cual podemos empezar a hac
 
 # Documentos HTML
 
-![alt text](image.png)
+![image](https://github.com/franciscoMarquezBocanegra/MICROFRAMEWORKS-WEB-AREP/assets/98216991/e75d3489-78c8-4928-a82f-a238a4f2f3b8)
+
 
 # Documentos CSS
 
@@ -107,6 +108,30 @@ Aqui nos debera de cargar la siguiente pagina, con la cual podemos empezar a hac
 # SO Linux
 
 ![image](https://github.com/franciscoMarquezBocanegra/MICROFRAMEWORKS-WEB-AREP/assets/98216991/8158c83a-a9ec-47b4-bbaf-980d627b7ca8)
+
+
+
+# ¿Como el desarrollador crearia una aplicacion con este marco de trabajo?
+
+Es simple, debe primero crear un controlador para poder añadir los endpoints a la estructura de datos encargada de buscar el metodo correspondiente y implementar las funciones lambda para manejar el request, en este caso creamos este controlador. 
+
+
+![image](https://github.com/franciscoMarquezBocanegra/MICROFRAMEWORKS-WEB-AREP/assets/98216991/4cc9680c-3df3-4773-92f6-3000c42a0542)
+
+
+
+ y luego debemos instanciar el controlador dentro del servidor web.
+
+
+![image](https://github.com/franciscoMarquezBocanegra/MICROFRAMEWORKS-WEB-AREP/assets/98216991/dfaf21aa-a3c4-4741-ad0c-0cf1ca383289)
+
+
+
+con esto al poner a correr el servidor, y buscar el endpoint a traves de nuestro navegador nos saldra asi.
+
+
+![image](https://github.com/franciscoMarquezBocanegra/MICROFRAMEWORKS-WEB-AREP/assets/98216991/b686bed5-233a-4259-be0e-f755d69e0f91)
+
 
 
 
